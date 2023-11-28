@@ -1,4 +1,4 @@
-### [![Visit Albidaa](https://albidaa.com/wp-content/uploads/2023/11/albidaa.com.png)](https://albidaa.com)
+### [![Visit Albidaa](https://albidaa.com/wp-content/uploads/2023/11/albidaa.com.png)(https://albidaa.com)
 
 
 <!--
