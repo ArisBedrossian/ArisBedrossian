@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.edensolutions.qa"><img src="https://www.edensolutions.qa/wp-content/uploads/2020/02/eden-solutions-logo-fullcolour-1000px.png" alt="Eden Solutions" width="200"></a>
+  <a href="https://www.edensolutions.qa"><img src="https://www.edensolutions.qa/wp-content/uploads/2020/02/eden-solutions-logo-fullcolour-1000px.png" alt="Eden Solutions" width="400"></a>
   <br>
   Eden Solutions Information Technology
   <br>
