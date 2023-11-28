@@ -1,4 +1,4 @@
-## <h2 style="color:green;">🌐 My Web Development Portfolio</h2>
+<h2 style="color:green;">🌐 My Web Development Portfolio</h2>
 
 <p style="color:green;">I am proud to present some of the websites I've developed. Each site reflects a unique style and functionality tailored to the client's needs.</p>
 
@@ -28,7 +28,7 @@
     <td style="color:green;">A beautiful display of Albidaa Flora's floral arrangements and services.</td>
     <td><a href="https://www.albidaaflora.com"><img src="https://img.shields.io/badge/Visit-Albidaa_Flora-blue?style=for-the-badge&logo=appveyor" alt="Albidaa Flora"></a></td>
   </tr>
-</ta
+</table>
 
 
 <!--
@@ -44,11 +44,6 @@
 | **Albidaa** | <span style="color:dark_green;"> ALBIDAA WEBSITE.</span> | [![Albidaa](https://img.shields.io/badge/Visit-Albidaa-blue?style=for-the-badge&logo=appveyor)](https://www.albidaa.com) |
 | **Calist Pro** | <span style="color:dark_green;">CALIST PRO.</span> | [![Calist Pro](https://img.shields.io/badge/Visit-Calist_Pro-blue?style=for-the-badge&logo=appveyor)](https://www.calistpro.com) |
 | **Albidaa Flora** | <span style="color:dark_green;">Albidaa FLORA.</span> | [![Albidaa Flora](https://img.shields.io/badge/Visit-Albidaa_Flora-blue?style=for-the-badge&logo=appveyor)](https://www.albidaaflora.com) |
-
-
-
-
-
 
 Here are some ideas to get you started:
 
