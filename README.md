@@ -11,7 +11,7 @@
   <tr>
     <td><strong>Albidaa Group</strong></td>
     <td style="color:green;">A comprehensive showcase of the Albidaa Group's services and portfolio.</td>
-    <td><a href="https://www.albidaagroup.com"><img src="https://img.shields.io/badge/Visit-Albidaa_Group-blue?style=for-the-badge&logo=appveyor" alt="Albidaa Group"></a></td>
+    <td><a href="https://www.albidaagroup.com"><img src="https://img.shields.io/badge/Visit-Albidaa_Group-green?style=for-the-badge&logo=appveyor" alt="Albidaa Group"></a></td>
   </tr>
   <tr>
     <td><strong>Albidaa</strong></td>
