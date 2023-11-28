@@ -1,4 +1,4 @@
-<h2 style="color:green;">🌐 My Web Development Portfolio</h2>
+<h2 style="color:green;">My Web Development Portfolio</h2>
 
 <p style="color:green;">I am proud to present some of the websites I've developed. Each site reflects a unique style and functionality tailored to the client's needs.</p>
 
