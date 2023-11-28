@@ -9,7 +9,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="width: 30%; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
     <h3 style="color: #2E8B57;">Albidaa Group</h3>
-    <img src="https://images.app.goo.gl/sKKxPZzefRowsrv27" alt="Albidaa Group Logo" style="max-width: 200%;">
+    <img src="https://albidaa.com/wp-content/uploads/2022/09/albidaa-logo-e1664285879840.jpg" alt="Albidaa Group Logo" style="max-width: 200%;">
     <p>Project: Comprehensive E-commerce Solution</p>
     <blockquote>"Eden Solutions provided us with an exceptional e-commerce platform that has transformed our online presence."</blockquote>
   </div>
